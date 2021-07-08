@@ -3,10 +3,10 @@
 
 ## ABOUT
 
-This repository is for:
-Capes (Client)
-Versions (Client & WebSite)
-Downloads (WebSite)
+This repository is for:<br>
+Capes (Client)<br>
+Versions (Client & WebSite)<br>
+Downloads (WebSite)<br>
 
 MatHax is an advanced Minecraft utility mod for Fabric. Currently supports Fabric 1.16.5-1.17.
 
