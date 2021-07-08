@@ -12,6 +12,3 @@ MatHax is an advanced Minecraft utility mod for Fabric. Currently supports Fabri
 
 MatHax is an recoded version of Meteor Client by MineGame159, seasnail & squidoodly.
 Edited and operated by Matejko06 & GeekieCoder.
-
-## Installing
-Visit https://mathaxclient.xyz/#FAQ for instructions on downloading and installing the client.
