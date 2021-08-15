@@ -5,6 +5,7 @@
 
 This repository is for:<br>
 Capes (Client)<br>
+Coper (Client)<br>
 Versions (Client & WebSite)<br>
 Downloads (WebSite)<br>
 
