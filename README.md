@@ -14,6 +14,6 @@
   <img src="https://img.shields.io/github/last-commit/Matejko06/MatHax-API">
   <img src="https://img.shields.io/github/commit-activity/m/Matejko06/MatHax-API">
   <img src="https://img.shields.io/github/languages/code-size/Matejko06/MatHax-API">
-  <img src="https://img.shields.io/tokei/lines/github/Matejko06/MatHax-APIy">
+  <img src="https://img.shields.io/tokei/lines/github/Matejko06/MatHax-API">
 	<a href="https://mathaxclient.xyz/Discord"><img src="https://img.shields.io/discord/823286525402939402"></a>
 </div>
