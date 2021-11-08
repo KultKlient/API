@@ -6,10 +6,6 @@
 	MatHax API
 </h1>
 
-<p align="center">
-	API site for <a href="https://mathaxclient.xyz/">MatHax Client</a>.
-</p>
-
 <div align="center">
     <a href="https://mathaxclient.xyz/Discord"><img src="https://img.shields.io/discord/823286525402939402?logo=discord" alt="Discord"/></a>
     <br><br>
