@@ -11,9 +11,12 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/MatHax/API">
-  <img src="https://img.shields.io/github/commit-activity/m/MatHax/API">
-  <img src="https://img.shields.io/github/languages/code-size/MatHax/API">
-  <img src="https://img.shields.io/tokei/lines/github/MatHax/API">
-	<a href="https://mathaxclient.xyz/Discord"><img src="https://img.shields.io/discord/823286525402939402"></a>
+    <a href="https://mathaxclient.xyz/Discord"><img src="https://img.shields.io/discord/823286525402939402?logo=discord" alt="Discord"/></a>
+    <br><br>
+    <img src="https://img.shields.io/github/last-commit/MatHax/API" alt="GitHub last commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/MatHax/API" alt="GitHub commit activity"/>
+    <br>
+    <img src="https://img.shields.io/github/languages/code-size/MatHax/API" alt="GitHub code size in bytes"/>
+    <img src="https://tokei.rs/b1/github/MatHax/API" alt="GitHub lines of code"/>
+    <img src="https://img.shields.io/github/contributors/MatHax/API" alt="GitHub contributors"/>
 </div>
