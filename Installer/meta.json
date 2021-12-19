@@ -1,0 +1,11 @@
+{
+    "game_versions": ["1.18", "1.17.1"],
+    "client_versions": ["1.6.6"],
+    "editions": [
+        {
+            "name": "Default",
+            "display_name": "Default",
+            "compatible_versions": ["1.17.1", "1.18"]
+        }
+    ]
+}
