@@ -1,4 +1,5 @@
 {
+    "version": "1.0.4",
     "client_versions": ["1.6.7"],
     "game_versions": ["1.18", "1.17.1"]
 }
